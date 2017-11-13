@@ -20,6 +20,7 @@
     "precommit": "lint-staged"
   },
   "devDependencies": {
+    "danger": "^2.0.1",
     "eslint": "^4.10.0",
     "eslint-config-prettier": "^2.7.0",
     "eslint-plugin-prettier": "^2.3.1",
